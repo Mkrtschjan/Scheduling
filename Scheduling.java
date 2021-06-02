@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * This program is designed to calculate OS scheduling using FCFS, RR, and SJF 
+ * This program is designed to calculate OS process scheduling using FCFS, RR, and SJF 
  * methods
  * @author Taline Mkrtschjan
  * Due 5 May 2021
